@@ -23,7 +23,7 @@ def fetch_market_data():
     }
     
     result = {
-        "last_updated": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "last_updated": datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).strftime("%Y-%m-%d %H:%M:%S"),
         "exchange_rates": [],
         "indices": []
     }
