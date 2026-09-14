@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-14 08:19:59",
+  "last_updated": "2026-09-14 10:23:37",
   "exchange_rates": [
     {
       "name": "USD/KRW",
       "symbol": "USDKRW=X",
-      "current": 1342.9,
-      "change_percent": -0.39,
+      "current": 1345.18,
+      "change_percent": -0.22,
       "stats": {
         "mean": 1351.66,
         "median": 1349.98,
@@ -2615,15 +2615,15 @@
           1339.21,
           1339.17,
           1348.17,
-          1342.9
+          1345.18
         ]
       }
     },
     {
       "name": "JPY/KRW",
       "symbol": "JPYKRW=X",
-      "current": 8.715,
-      "change_percent": -0.14,
+      "current": 8.731,
+      "change_percent": 0.04,
       "stats": {
         "mean": 9.4487,
         "median": 9.4127,
@@ -5233,15 +5233,15 @@
           8.7259,
           8.7178,
           8.7273,
-          8.715
+          8.731
         ]
       }
     },
     {
       "name": "CNY/KRW",
       "symbol": "CNYKRW=X",
-      "current": 200.51,
-      "change_percent": -0.26,
+      "current": 200.88,
+      "change_percent": -0.08,
       "stats": {
         "mean": 193.83,
         "median": 190.94,
@@ -7851,15 +7851,15 @@
           199.57,
           199.56,
           201.04,
-          200.51
+          200.88
         ]
       }
     },
     {
       "name": "EUR/KRW",
       "symbol": "EURKRW=X",
-      "current": 1555.8,
-      "change_percent": -0.59,
+      "current": 1559.1,
+      "change_percent": -0.38,
       "stats": {
         "mean": 1487.32,
         "median": 1453.15,
@@ -10469,7 +10469,7 @@
           1556.73,
           1557.39,
           1565.09,
-          1555.8
+          1559.1
         ]
       }
     },
@@ -13092,8 +13092,8 @@
     {
       "name": "TWD/KRW",
       "symbol": "TWDKRW=X",
-      "current": 42.47,
-      "change_percent": -0.29,
+      "current": 42.46,
+      "change_percent": -0.31,
       "stats": {
         "mean": 43.69,
         "median": 43.08,
@@ -14401,7 +14401,7 @@
           "2026-09-09",
           "2026-09-10",
           "2026-09-11",
-          "2026-09-13"
+          "2026-09-14"
         ],
         "data": [
           42.41,
@@ -15703,15 +15703,15 @@
           42.5,
           42.54,
           42.6,
-          42.47
+          42.46
         ]
       }
     },
     {
       "name": "AUD/KRW",
       "symbol": "AUDKRW=X",
-      "current": 961.5,
-      "change_percent": -0.34,
+      "current": 962.03,
+      "change_percent": -0.28,
       "stats": {
         "mean": 911.25,
         "median": 898.26,
@@ -18321,7 +18321,7 @@
           967.0,
           966.87,
           964.78,
-          961.5
+          962.03
         ]
       }
     }
@@ -18330,8 +18330,8 @@
     {
       "name": "DXY (달러 인덱스)",
       "symbol": "DX-Y.NYB",
-      "current": 99.14,
-      "change_percent": 0.02,
+      "current": 99.21,
+      "change_percent": 0.09,
       "stats": {
         "mean": 102.06,
         "median": 102.28,
@@ -20857,7 +20857,7 @@
           98.77,
           99.09,
           99.12,
-          99.14
+          99.21
         ]
       }
     }
