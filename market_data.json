@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17 23:19:35",
+  "last_updated": "2026-10-18 02:25:56",
   "exchange_rates": [
     {
       "name": "USD/KRW",
@@ -5242,8 +5242,8 @@
     {
       "name": "CNY/KRW",
       "symbol": "CNYKRW=X",
-      "current": 198.86,
-      "change_percent": -0.78,
+      "current": 199.14,
+      "change_percent": -0.64,
       "stats": {
         "mean": 194.18,
         "median": 191.41,
@@ -7855,7 +7855,7 @@
           200.29,
           200.12,
           200.41,
-          198.86
+          199.14
         ]
       }
     },
